@@ -8,13 +8,5 @@
     "lname": "myname",
     "age": 25,
     "year": 2000
-  },
-  "name": {
-    "userid": "g",
-    "password": "g"
-  },
-  "hello": {
-    "username": "ram",
-    "ismyname": true
   }
 }
