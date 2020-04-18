@@ -9,7 +9,7 @@ const fs = require('fs');
 var dataFolder = "data"
 var dbFile = "db.json"
 
-var port = 3000
+var port = process.env.PORT || 3000
 
 /**
  * server arguments.
